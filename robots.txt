@@ -1,0 +1,12 @@
+# (copyright) Damon Rees - 2021 - 2022
+# on befalf of Axoloe
+
+User-agent: *
+
+Disallow: /script.js
+Disallow: /style.css
+Disallow: /robots.txt
+Disallow: /google11f5fee8da534c2f.html
+disallow: /sitemap.txt
+
+sitemap: https://www.axoloe.us/sitemap.txt
