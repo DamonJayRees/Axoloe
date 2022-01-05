@@ -7,3 +7,10 @@ https://www.axoloe.us/sitemap.txt
 https://www.axoloe.us/images/mac.jpg
 https://www.axoloe.us/images/team1.png
 https://www.axoloe.us/images/team2.png
+https://www.axoloe.us/about.html
+https://www.axoloe.us/about.htm
+https://www.axoloe.us/projects/discord.txt
+https://www.axoloe.us/projects/java.txt
+https://www.axoloe.us/other/bosslobbies.txt
+https://www.axoloe.us/other/website.txt
+https://www.axoloe.us/other/code/discord.txt

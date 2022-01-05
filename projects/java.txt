@@ -1,0 +1,10 @@
+class Main {
+  public static void main(String[] args) {
+     System.out.println("___________");
+     System.out.println("|JAVA     |");
+     System.out.println("|    B    |");
+     System.out.println("|     O   |");
+     System.out.println("|      X  |");
+     System.out.println("‾‾‾‾‾‾‾‾‾‾‾");
+  }
+}

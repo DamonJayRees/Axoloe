@@ -1,0 +1,19 @@
+import discord.utils
+from discord.ext import commands
+import discord
+import random
+import json
+intents = discord.Intents.default()
+intents.members = True
+client = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='!')
+# Startup Information
+@client.event
+async def on_ready():
+    await client.change_presence(activity=discord.Game('     GAME OR URL     '))
+    
+    print('Connected to bot: {}'.format(client.user.name))
+    print('Bot ID: {}'.format(client.user.id))
+
+
+client.run ('   TOKEN   ')
